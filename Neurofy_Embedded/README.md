@@ -57,7 +57,7 @@ The system consists of three main components:
 
 The hardware wiring of Neurofy headband is illustrated below.
 
-![Local Image](assets/images/Circuit Wiring - Neurofy.png)
+![Local Image](assets/images/Circuit-Wiring-Neurofy.png)
 
 ### Note: 
 The voltages to be measured need to be between negative VREF + 0.2 V and positive VREF -0.2 V if PGA is enabled.
